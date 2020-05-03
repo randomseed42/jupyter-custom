@@ -1,0 +1,7 @@
+.CodeMirror pre.CodeMirror-line,
+.CodeMirror pre.CodeMirror-line-like,
+.input_prompt,
+.output_text pre {
+    font-family: 'Fira Code';
+    font-size: 10pt;
+}
